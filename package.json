@@ -1,7 +1,7 @@
 {
   "name": "vue3-event-intercept-component",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "vue3 dom事件拦截器",
   "type": "module",
   "scripts": {
@@ -11,8 +11,7 @@
   },
   "dependencies": {
     "vue": "^3.2.37",
-    "vue3-event-intercept": "^0.0.0",
-    "vue3-lazyload-img": "^0.0.8"
+    "vue3-event-intercept": "^0.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.3",

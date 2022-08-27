@@ -918,11 +918,6 @@ vue3-event-intercept@^0.0.0:
   resolved "https://registry.npmjs.org/vue3-event-intercept/-/vue3-event-intercept-0.0.0.tgz#ee34c39732eb8f609527477675dd11f0438dc617"
   integrity sha512-+Fy5+TjqdHh60SZAQnMAplxzA/Ub20n1oUM1uPqM4TshXUtZwcsi2cdI9XiUh8rj+Yg4U4xVvrHL5QlO0mimmA==
 
-vue3-lazyload-img@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.npmjs.org/vue3-lazyload-img/-/vue3-lazyload-img-0.0.8.tgz#ce064b5470759fe6cc2e82d86c8c134ac1dc9e55"
-  integrity sha512-vLYiQCSNKL8Tka8cO7Z0G9Ci0rq1Jer537uC7+Us43b0KuwRb96B6i+PENYBKp5kPUmOe0B4Kj1Oftje9h0GhA==
-
 vue@^3.2.37:
   version "3.2.37"
   resolved "https://registry.npmjs.org/vue/-/vue-3.2.37.tgz#da220ccb618d78579d25b06c7c21498ca4e5452e"

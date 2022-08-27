@@ -1,6 +1,6 @@
 {
   "name": "vue3-event-intercept",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "vue3 dom事件拦截器",
   "private": false,
   "author": "zxiaogong",

@@ -13,7 +13,7 @@ export default defineConfig({
     outDir:"public/lib",
     lib: {
       entry: path.resolve(__dirname, 'src/components/export.ts'),
-      name: 'lazyloadImg',
+      name: 'eventIntercept',
       fileName: (format) => `event-intercept.${format}.js`
     },
     rollupOptions: {
