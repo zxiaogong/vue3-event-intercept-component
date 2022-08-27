@@ -2,6 +2,7 @@
   "name": "vue3-event-intercept-component",
   "private": true,
   "version": "0.0.0",
+  "description": "vue3 dom事件拦截器",
   "type": "module",
   "scripts": {
     "dev": "vite",
