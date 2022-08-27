@@ -1,0 +1,26 @@
+{
+  "name": "vue3-event-intercept",
+  "version": "0.0.2",
+  "description": "vue3 dom事件拦截器",
+  "private": false,
+  "author": "zxiaogong",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib",
+    "type"
+  ],
+  "main": "lib/event-intercept.es.js",
+  "types": "type/event-intercept.es.d.ts",
+  "keywords": [
+    "vue",
+    "event",
+    "vue3",
+    "intercept"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zxiaogong/vue3-event-intercept-component"
+  }
+}
